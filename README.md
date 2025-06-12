@@ -1,5 +1,3 @@
-# VRGestureTeleop
-
 # VR Gesture Teleop
 
 Teleoperação via gestos em realidade virtual. O repositório conecta um projeto Unity que capta gestos VR a um módulo ROS2 que recebe e processa esses dados.
