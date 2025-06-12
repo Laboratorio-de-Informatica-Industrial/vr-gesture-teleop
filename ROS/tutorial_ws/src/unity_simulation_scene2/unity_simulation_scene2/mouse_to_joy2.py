@@ -13,6 +13,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Modificações feitas por Laboratório de Informática Industrial em 2025:
+# - Código modificado para converter gestos da Unity em mensagens Joy
+
 import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import Joy

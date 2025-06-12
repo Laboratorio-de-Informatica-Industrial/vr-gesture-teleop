@@ -11,6 +11,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# Modificações feitas por Laboratório de Informática Industrial em 2025:
+# - Nodes modificados para incluir novos comportamentos de simulação
+# - Inclusão de novos nodes para controle de gestos
+
 from launch import LaunchDescription
 from launch.actions import DeclareLaunchArgument, IncludeLaunchDescription
 from launch_ros.actions import Node
