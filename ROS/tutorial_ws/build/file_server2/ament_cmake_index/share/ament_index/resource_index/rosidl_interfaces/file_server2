@@ -1,0 +1,4 @@
+srv/GetBinaryFile.idl
+srv/GetBinaryFile.srv
+srv/SaveBinaryFile.idl
+srv/SaveBinaryFile.srv

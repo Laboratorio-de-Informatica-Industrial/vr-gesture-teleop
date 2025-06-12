@@ -1,0 +1,7 @@
+{
+  "package_name": "file_server2",
+  "non_idl_tuples": [
+    "/home/acelino/tutorial_ws/src/file_server2:srv/GetBinaryFile.srv",
+    "/home/acelino/tutorial_ws/src/file_server2:srv/SaveBinaryFile.srv"
+  ]
+}

@@ -1,0 +1,9 @@
+setup.py
+file_server2/__init__.py
+file_server2.egg-info/PKG-INFO
+file_server2.egg-info/SOURCES.txt
+file_server2.egg-info/dependency_links.txt
+file_server2.egg-info/top_level.txt
+file_server2/srv/__init__.py
+file_server2/srv/_get_binary_file.py
+file_server2/srv/_save_binary_file.py

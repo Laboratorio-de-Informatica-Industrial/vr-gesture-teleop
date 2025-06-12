@@ -1,0 +1,4 @@
+source;share/file_server2/local_setup.bash
+source;share/file_server2/local_setup.dsv
+source;share/file_server2/local_setup.sh
+source;share/file_server2/local_setup.zsh

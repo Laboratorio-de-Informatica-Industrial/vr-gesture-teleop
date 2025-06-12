@@ -1,0 +1,2 @@
+[console_scripts]
+joy_to_twist2 = gazebo_simulation_scene2.joy_to_twist2:main

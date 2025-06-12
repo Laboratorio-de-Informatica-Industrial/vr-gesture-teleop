@@ -1,0 +1,251 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-0bb46ff923fc814a227c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "file_server2__py",
+					"jsonFile" : "directory-file_server2__py-e0c21625eff2d7634867.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/acelino/tutorial_ws/build/file_server2/file_server2__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "file_server2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_file_server2_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_file_server2_egg-f98c5e6c8e9d236d0f9b.json",
+					"name" : "ament_cmake_python_build_file_server2_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_file_server2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_file_server2-c524736aa64c5f9e2764.json",
+					"name" : "ament_cmake_python_symlink_file_server2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2-5488370a9cd8da6162d4.json",
+					"name" : "file_server2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__cpp-c9511d48e470f90dea0c.json",
+					"name" : "file_server2__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "file_server2__py::@642c2b9bbbf008c40530",
+					"jsonFile" : "target-file_server2__py-3627e5256738fec6a20a.json",
+					"name" : "file_server2__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_generator_c-ad10691996b79096f652.json",
+					"name" : "file_server2__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_generator_py-466bbdf4fec488678ae5.json",
+					"name" : "file_server2__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_generator_type_description-2eb672c046ae4e6637ae.json",
+					"name" : "file_server2__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_typesupport_c-76c332ff4929d983effa.json",
+					"name" : "file_server2__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_typesupport_cpp-4b3fb2e8f61f5a7ed47a.json",
+					"name" : "file_server2__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_typesupport_fastrtps_c-3baf6a7d340e7b3ae83f.json",
+					"name" : "file_server2__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_typesupport_fastrtps_cpp-7c25d921e041f7df9c18.json",
+					"name" : "file_server2__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_typesupport_introspection_c-c6bc28a61852897090de.json",
+					"name" : "file_server2__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2__rosidl_typesupport_introspection_cpp-df3ad6554ab3f5802824.json",
+					"name" : "file_server2__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2_node-131a81b2290936f1a56d.json",
+					"name" : "file_server2_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2_s__rosidl_typesupport_c-99f0cc26e712d3c77c7c.json",
+					"name" : "file_server2_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2_s__rosidl_typesupport_fastrtps_c-0e71cc0df973153163f3.json",
+					"name" : "file_server2_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2_s__rosidl_typesupport_introspection_c-8aec80fe4242705b6853.json",
+					"name" : "file_server2_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file_server2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file_server2_uninstall-67c1ef4d00bec6973a30.json",
+					"name" : "file_server2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a040287a032b09a69e76.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/acelino/tutorial_ws/build/file_server2",
+		"source" : "/home/acelino/tutorial_ws/src/file_server2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

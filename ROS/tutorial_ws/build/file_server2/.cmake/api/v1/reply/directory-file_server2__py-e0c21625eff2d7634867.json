@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "file_server2__py",
+		"source" : "/home/acelino/tutorial_ws/build/file_server2/file_server2__py"
+	}
+}

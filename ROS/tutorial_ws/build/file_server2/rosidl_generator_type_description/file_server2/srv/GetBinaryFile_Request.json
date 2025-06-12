@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "file_server2/srv/GetBinaryFile_Request",
+      "fields": [
+        {
+          "name": "name",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "file_server2/srv/GetBinaryFile_Request",
+      "hash_string": "RIHS01_53af82f554620102191b31d38f34c7ebf19f77217ee3ac8c4d0901c958f53641"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from file_server2/srv/SaveBinaryFile.srv
+// generated code does not contain a copyright notice
+
+
+module file_server2 {
+  module srv {
+    struct SaveBinaryFile_Request {
+      string name;
+
+      sequence<uint8> value;
+    };
+    struct SaveBinaryFile_Response {
+      string name;
+    };
+  };
+};

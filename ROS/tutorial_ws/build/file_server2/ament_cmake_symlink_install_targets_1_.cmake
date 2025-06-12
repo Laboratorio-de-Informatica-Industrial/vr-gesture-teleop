@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/acelino/tutorial_ws/build/file_server2/rosidl_generator_py/file_server2/file_server2_s__rosidl_typesupport_introspection_c.so" "TARGETS" "file_server2_s__rosidl_typesupport_introspection_c" "DESTINATION" "lib/python3.12/site-packages/file_server2")

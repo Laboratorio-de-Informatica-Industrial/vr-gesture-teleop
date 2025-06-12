@@ -1,0 +1,3 @@
+[console_scripts]
+gesture_to_joy2 = unity_simulation_scene2.gesture_to_joy2:main
+mouse_to_joy2 = unity_simulation_scene2.mouse_to_joy2:main
