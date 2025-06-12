@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Modificações feitas por Laboratório de Informática Industrial em 2025:
+# Copia de mouse_to_joy2 e Modificações feitas por Laboratório de Informática Industrial em 2025:
 # - Código gerado para converter gestos da Unity em mensagens Joy1
 
 import rclpy
